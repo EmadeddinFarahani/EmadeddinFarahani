@@ -1,11 +1,13 @@
 ### Hello Dear Friend... 👋
 
-I am Emadeddin Farahani. 😊
-A native of Great Iran 🇮🇷 | Teacher of some computer courses 👨‍🏫 | Developer 👨‍💻
+😊I am Emadeddin Farahani. 
+
+🇮🇷 A native of Great Iran | 👨‍🏫 Teacher of some computer courses  | 👨‍💻 Developer 
 
 Web programmer and developer and computer science lover as well as computer software technology expert.
 
-## Technical and professional skills:
+### Technical and professional skills:
+
 ### Programming language
   - PHP   -> 95%
   - JS    -> 80%
